@@ -1,0 +1,5 @@
+fastapi>=0.116.0,<1.0.0
+uvicorn[standard]>=0.35.0,<1.0.0
+httpx>=0.28.0,<1.0.0
+aiosqlite>=0.21.0,<1.0.0
+tzdata>=2025.2,<2027.0
