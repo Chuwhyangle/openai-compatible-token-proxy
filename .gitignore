@@ -10,3 +10,4 @@ data/
 .env.*
 !.env.example
 app/__pycache__/
+config/upstreams.json
